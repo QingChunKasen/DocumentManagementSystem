@@ -1,0 +1,6 @@
+C:\Code\DocumentManagementSystem\Domain.Model\bin\Debug\DomainModel.dll
+C:\Code\DocumentManagementSystem\Domain.Model\bin\Debug\DomainModel.pdb
+C:\Code\DocumentManagementSystem\Domain.Model\obj\Debug\Domain.Model.csprojAssemblyReference.cache
+C:\Code\DocumentManagementSystem\Domain.Model\obj\Debug\Domain.Model.csproj.CoreCompileInputs.cache
+C:\Code\DocumentManagementSystem\Domain.Model\obj\Debug\DomainModel.dll
+C:\Code\DocumentManagementSystem\Domain.Model\obj\Debug\DomainModel.pdb

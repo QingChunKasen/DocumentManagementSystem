@@ -1,0 +1,5 @@
+C:\Code\DocumentManagementSystem\.vs\DocumentManagementSystem\v16\lut\0\b\Utilities\bin\Debug\Utilities.dll
+C:\Code\DocumentManagementSystem\.vs\DocumentManagementSystem\v16\lut\0\i\Utilities\Debug\Utilities.csprojAssemblyReference.cache
+C:\Code\DocumentManagementSystem\.vs\DocumentManagementSystem\v16\lut\0\i\Utilities\Debug\Utilities.csproj.CoreCompileInputs.cache
+C:\Code\DocumentManagementSystem\.vs\DocumentManagementSystem\v16\lut\0\i\Utilities\Debug\Utilities.csproj.CopyComplete
+C:\Code\DocumentManagementSystem\.vs\DocumentManagementSystem\v16\lut\0\i\Utilities\Debug\Utilities.dll

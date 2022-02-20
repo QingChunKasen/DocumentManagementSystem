@@ -1,0 +1,9 @@
+C:\Code\DocumentManagementSystem\Domain.Service.Interface\bin\Debug\DomainServiceInterface.dll
+C:\Code\DocumentManagementSystem\Domain.Service.Interface\bin\Debug\DomainServiceInterface.pdb
+C:\Code\DocumentManagementSystem\Domain.Service.Interface\bin\Debug\DomainModel.dll
+C:\Code\DocumentManagementSystem\Domain.Service.Interface\bin\Debug\DomainModel.pdb
+C:\Code\DocumentManagementSystem\Domain.Service.Interface\obj\Debug\Domain.Service.Interface.csprojAssemblyReference.cache
+C:\Code\DocumentManagementSystem\Domain.Service.Interface\obj\Debug\Domain.Service.Interface.csproj.CoreCompileInputs.cache
+C:\Code\DocumentManagementSystem\Domain.Service.Interface\obj\Debug\Domain.Service.Interface.csproj.CopyComplete
+C:\Code\DocumentManagementSystem\Domain.Service.Interface\obj\Debug\DomainServiceInterface.dll
+C:\Code\DocumentManagementSystem\Domain.Service.Interface\obj\Debug\DomainServiceInterface.pdb

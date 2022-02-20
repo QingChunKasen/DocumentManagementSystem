@@ -1,0 +1,370 @@
+﻿Level DateTime Thread Class - Message 
+INFO  10-15 13:01:11,396 1 DocumentManagementForm - Begin to load form.  
+INFO  10-15 13:01:11,566 1 DocumentManagementForm - Begin to load tree.  
+INFO  10-15 13:01:11,569 1 DocumentManagementForm - Begin to load tree under This PC.  
+Level DateTime Thread Class - Message 
+INFO  10-15 13:03:06,514 1 DocumentManagementForm - Begin to load form.  
+INFO  10-15 13:03:06,662 1 DocumentManagementForm - Begin to load tree.  
+INFO  10-15 13:03:06,664 1 DocumentManagementForm - Begin to load tree under This PC.  
+INFO  10-15 13:03:08,369 1 DocumentManagementForm - Begin to load tree.  
+INFO  10-15 13:03:08,370 1 FileManager - Begin to get folders from C:\.  
+INFO  10-15 13:03:08,384 1 DocumentManagementForm - Begin to load tree under This PC\C:\.  
+INFO  10-15 13:03:08,386 1 FileManager - Begin to get folders from C:\.  
+INFO  10-15 13:03:08,387 1 FileManager - Begin to get files from C:\.  
+Level DateTime Thread Class - Message 
+INFO  10-15 13:03:18,527 1 DocumentManagementForm - Begin to load form.  
+INFO  10-15 13:03:18,691 1 DocumentManagementForm - Begin to load tree.  
+INFO  10-15 13:03:18,697 1 DocumentManagementForm - Begin to load tree under This PC.  
+INFO  10-15 13:03:19,916 1 DocumentManagementForm - Begin to load tree.  
+INFO  10-15 13:03:19,917 1 FileManager - Begin to get folders from C:\.  
+INFO  10-15 13:03:19,940 1 DocumentManagementForm - Begin to load tree under This PC\C:\.  
+INFO  10-15 13:03:19,943 1 FileManager - Begin to get folders from C:\.  
+INFO  10-15 13:03:19,945 1 FileManager - Begin to get files from C:\.  
+Level DateTime Thread Class - Message 
+INFO  10-15 13:03:30,764 1 DocumentManagementForm - Begin to load form.  
+INFO  10-15 13:03:30,949 1 DocumentManagementForm - Begin to load tree.  
+INFO  10-15 13:03:30,952 1 DocumentManagementForm - Begin to load tree under This PC.  
+INFO  10-15 13:03:32,206 1 DocumentManagementForm - Begin to load tree.  
+INFO  10-15 13:03:32,207 1 FileManager - Begin to get folders from C:\.  
+INFO  10-15 13:03:32,218 1 DocumentManagementForm - Begin to load tree under This PC\C:\.  
+INFO  10-15 13:03:32,222 1 FileManager - Begin to get folders from C:\.  
+INFO  10-15 13:03:32,224 1 FileManager - Begin to get files from C:\.  
+INFO  10-15 13:03:35,108 1 DocumentManagementForm - Begin to load tree.  
+INFO  10-15 13:03:35,108 1 FileManager - Begin to get folders from C:\\Demo.  
+INFO  10-15 13:03:35,111 1 DocumentManagementForm - Begin to load tree under This PC\C:\\Demo.  
+INFO  10-15 13:03:35,113 1 FileManager - Begin to get folders from C:\\Demo.  
+INFO  10-15 13:03:35,113 1 FileManager - Begin to get files from C:\\Demo.  
+Level DateTime Thread Class - Message 
+INFO  10-15 14:56:27,244 1 DocumentManagementForm - Begin to load form.  
+INFO  10-15 14:56:27,565 1 DocumentManagementForm - Begin to load tree.  
+INFO  10-15 14:56:27,575 1 DocumentManagementForm - Begin to load tree under This PC.  
+INFO  10-15 14:56:29,334 1 DocumentManagementForm - Begin to load tree.  
+INFO  10-15 14:56:29,335 1 FileManager - Begin to get folders from C:\.  
+INFO  10-15 14:56:29,352 1 DocumentManagementForm - Begin to load tree under This PC\C:\.  
+INFO  10-15 14:56:29,353 1 FileManager - Begin to get folders from C:\.  
+INFO  10-15 14:56:29,355 1 FileManager - Begin to get files from C:\.  
+INFO  10-15 14:56:30,962 1 DocumentManagementForm - Begin to load tree.  
+INFO  10-15 14:56:30,964 1 FileManager - Begin to get folders from C:\\Demo.  
+INFO  10-15 14:56:30,968 1 DocumentManagementForm - Begin to load tree under This PC\C:\\Demo.  
+INFO  10-15 14:56:30,969 1 FileManager - Begin to get folders from C:\\Demo.  
+INFO  10-15 14:56:30,970 1 FileManager - Begin to get files from C:\\Demo.  
+INFO  10-15 15:07:37,732 1 GridService - Begin to get selected files from grid.  
+INFO  10-15 15:07:37,733 1 GridService - Begin to get selected files from grid.  
+INFO  10-15 15:10:19,189 1 FileOperation - Begin to submit file change, the specified value is 1111.  
+INFO  10-15 15:12:16,672 1 GridService - Begin to filter items from grid, Key: ^[+-]?\d*$.  
+INFO  10-15 15:12:16,673 1 FileManager - Begin to get folders from C:\Demo.  
+ERROR 10-15 15:12:16,720 1 GridService - An error occurred when filter file: F1. Reason: System.ArgumentOutOfRangeException: Length cannot be less than zero.
+Parameter name: length
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at DocumentManagementSystem.GridService.MatchKey(String name, String key) in C:\Code\DocumentManagementSystem\DocumentManagementSystem\GridView\Impl\GridService.cs:line 142.  
+ERROR 10-15 15:12:16,737 1 GridService - An error occurred when filter file: F2. Reason: System.ArgumentOutOfRangeException: Length cannot be less than zero.
+Parameter name: length
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at DocumentManagementSystem.GridService.MatchKey(String name, String key) in C:\Code\DocumentManagementSystem\DocumentManagementSystem\GridView\Impl\GridService.cs:line 142.  
+INFO  10-15 15:12:16,737 1 FileManager - Begin to get files from C:\Demo.  
+Level DateTime Thread Class - Message 
+INFO  10-18 09:38:26,833 1 DocumentManagementForm - Begin to load form.  
+INFO  10-18 09:38:26,971 1 DocumentManagementForm - Begin to load tree.  
+INFO  10-18 09:38:26,975 1 DocumentManagementForm - Begin to load tree under This PC.  
+INFO  10-18 09:38:46,232 1 DocumentManagementForm - Begin to load tree.  
+INFO  10-18 09:38:46,233 1 FileManager - Begin to get folders from C:\.  
+INFO  10-18 09:38:46,253 1 DocumentManagementForm - Begin to load tree under This PC\C:\.  
+INFO  10-18 09:38:46,257 1 FileManager - Begin to get folders from C:\.  
+INFO  10-18 09:38:46,261 1 FileManager - Begin to get files from C:\.  
+INFO  10-18 09:38:47,574 1 DocumentManagementForm - Begin to load tree.  
+INFO  10-18 09:38:47,575 1 FileManager - Begin to get folders from C:\\Code.  
+INFO  10-18 09:38:47,601 1 DocumentManagementForm - Begin to load tree under This PC\C:\\Code.  
+INFO  10-18 09:38:47,602 1 FileManager - Begin to get folders from C:\\Code.  
+INFO  10-18 09:38:47,603 1 FileManager - Begin to get files from C:\\Code.  
+INFO  10-18 09:38:50,025 1 DocumentManagementForm - Begin to load tree.  
+INFO  10-18 09:38:50,026 1 FileManager - Begin to get folders from C:\\Demo.  
+INFO  10-18 09:38:50,032 1 DocumentManagementForm - Begin to load tree under This PC\C:\\Demo.  
+INFO  10-18 09:38:50,039 1 FileManager - Begin to get folders from C:\\Demo.  
+INFO  10-18 09:38:50,039 1 FileManager - Begin to get files from C:\\Demo.  
+INFO  10-18 09:39:00,001 1 GridService - Begin to filter items from grid, Key: f4.  
+INFO  10-18 09:39:00,002 1 FileManager - Begin to get folders from C:\Demo.  
+ERROR 10-18 09:39:00,108 1 GridService - An error occurred when filter file: F1. Reason: System.ArgumentOutOfRangeException: Length cannot be less than zero.
+Parameter name: length
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at DocumentManagementSystem.GridService.MatchKey(String name, String key) in C:\Code\DocumentManagementSystem\DocumentManagementSystem\GridView\Impl\GridService.cs:line 142.  
+ERROR 10-18 09:39:00,128 1 GridService - An error occurred when filter file: F2. Reason: System.ArgumentOutOfRangeException: Length cannot be less than zero.
+Parameter name: length
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at DocumentManagementSystem.GridService.MatchKey(String name, String key) in C:\Code\DocumentManagementSystem\DocumentManagementSystem\GridView\Impl\GridService.cs:line 142.  
+INFO  10-18 09:39:00,129 1 FileManager - Begin to get files from C:\Demo.  
+INFO  10-18 09:39:04,757 1 GridService - Begin to filter items from grid, Key: F4.  
+INFO  10-18 09:39:04,758 1 FileManager - Begin to get folders from C:\Demo.  
+ERROR 10-18 09:39:04,776 1 GridService - An error occurred when filter file: F1. Reason: System.ArgumentOutOfRangeException: Length cannot be less than zero.
+Parameter name: length
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at DocumentManagementSystem.GridService.MatchKey(String name, String key) in C:\Code\DocumentManagementSystem\DocumentManagementSystem\GridView\Impl\GridService.cs:line 142.  
+ERROR 10-18 09:39:04,795 1 GridService - An error occurred when filter file: F2. Reason: System.ArgumentOutOfRangeException: Length cannot be less than zero.
+Parameter name: length
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at DocumentManagementSystem.GridService.MatchKey(String name, String key) in C:\Code\DocumentManagementSystem\DocumentManagementSystem\GridView\Impl\GridService.cs:line 142.  
+INFO  10-18 09:39:04,795 1 FileManager - Begin to get files from C:\Demo.  
+INFO  10-18 09:39:06,736 1 GridService - Begin to get selected files from grid.  
+INFO  10-18 09:39:06,737 1 GridService - Begin to get selected files from grid.  
+Level DateTime Thread Class - Message 
+INFO  10-18 18:16:10,090 1 DocumentManagementForm - Begin to load form.  
+INFO  10-18 18:16:10,196 1 DocumentManagementForm - Begin to load tree.  
+INFO  10-18 18:16:10,200 1 DocumentManagementForm - Begin to load tree under This PC.  
+Level DateTime Thread Class - Message 
+INFO  10-18 18:20:51,040 1 DocumentManagementForm - Begin to load form.  
+INFO  10-18 18:20:51,122 1 DocumentManagementForm - Begin to load tree.  
+INFO  10-18 18:20:51,123 1 DocumentManagementForm - Begin to load tree under This PC.  
+Level DateTime Thread Class - Message 
+INFO  10-18 18:28:38,889 1 DocumentManagementForm - Begin to load form.  
+INFO  10-18 18:28:38,976 1 DocumentManagementForm - Begin to load tree.  
+INFO  10-18 18:28:38,978 1 DocumentManagementForm - Begin to load tree under This PC.  
+Level DateTime Thread Class - Message 
+INFO  10-21 08:57:39,469 1 DocumentManagementForm - Begin to load form.  
+INFO  10-21 08:57:39,651 1 DocumentManagementForm - Begin to load tree.  
+INFO  10-21 08:57:39,657 1 DocumentManagementForm - Begin to load tree under This PC.  
+Level DateTime Thread Class - Message 
+INFO  10-21 09:22:35,870 1 DocumentManagementForm - Begin to load form.  
+INFO  10-21 09:22:36,016 1 DocumentManagementForm - Begin to load tree.  
+INFO  10-21 09:22:36,019 1 DocumentManagementForm - Begin to load tree under This PC.  
+INFO  10-21 09:22:38,131 1 DocumentManagementForm - Begin to load tree.  
+INFO  10-21 09:22:38,133 1 FileManager - Begin to get folders from C:\.  
+INFO  10-21 09:22:38,155 1 DocumentManagementForm - Begin to load tree under This PC\C:\.  
+INFO  10-21 09:22:38,157 1 FileManager - Begin to get folders from C:\.  
+INFO  10-21 09:22:38,159 1 FileManager - Begin to get files from C:\.  
+INFO  10-21 09:22:40,408 1 DocumentManagementForm - Begin to load tree.  
+INFO  10-21 09:22:40,409 1 FileManager - Begin to get folders from C:\\Demo.  
+INFO  10-21 09:22:40,414 1 DocumentManagementForm - Begin to load tree under This PC\C:\\Demo.  
+INFO  10-21 09:22:40,415 1 FileManager - Begin to get folders from C:\\Demo.  
+INFO  10-21 09:22:40,416 1 FileManager - Begin to get files from C:\\Demo.  
+INFO  10-21 09:22:43,485 1 GridService - Begin to sort items from grid.  
+INFO  10-21 09:22:43,487 1 GridService - Begin to filter items from grid, Key: .  
+INFO  10-21 09:22:43,487 1 FileManager - Begin to get folders from C:\Demo.  
+INFO  10-21 09:22:43,488 1 FileManager - Begin to get files from C:\Demo.  
+INFO  10-21 09:22:44,407 1 GridService - Begin to sort items from grid.  
+INFO  10-21 09:22:44,408 1 GridService - Begin to filter items from grid, Key: .  
+INFO  10-21 09:22:44,408 1 FileManager - Begin to get folders from C:\Demo.  
+INFO  10-21 09:22:44,409 1 FileManager - Begin to get files from C:\Demo.  
+INFO  10-21 09:22:45,960 1 GridService - Begin to sort items from grid.  
+INFO  10-21 09:22:45,961 1 GridService - Begin to filter items from grid, Key: .  
+INFO  10-21 09:22:45,961 1 FileManager - Begin to get folders from C:\Demo.  
+INFO  10-21 09:22:45,962 1 FileManager - Begin to get files from C:\Demo.  
+INFO  10-21 09:22:46,915 1 GridService - Begin to sort items from grid.  
+INFO  10-21 09:22:46,915 1 GridService - Begin to filter items from grid, Key: .  
+INFO  10-21 09:22:46,916 1 FileManager - Begin to get folders from C:\Demo.  
+INFO  10-21 09:22:46,917 1 FileManager - Begin to get files from C:\Demo.  
+INFO  10-21 09:22:55,232 1 GridService - Begin to filter items from grid, Key: F4.  
+INFO  10-21 09:22:55,233 1 FileManager - Begin to get folders from C:\Demo.  
+ERROR 10-21 09:22:55,328 1 GridService - An error occurred when filter file: F1. Reason: System.ArgumentOutOfRangeException: Length cannot be less than zero.
+Parameter name: length
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at DocumentManagementSystem.GridService.MatchKey(String name, String key) in C:\Code\DocumentManagementSystem\DocumentManagementSystem\GridView\Impl\GridService.cs:line 142.  
+ERROR 10-21 09:22:55,340 1 GridService - An error occurred when filter file: F2. Reason: System.ArgumentOutOfRangeException: Length cannot be less than zero.
+Parameter name: length
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at DocumentManagementSystem.GridService.MatchKey(String name, String key) in C:\Code\DocumentManagementSystem\DocumentManagementSystem\GridView\Impl\GridService.cs:line 142.  
+INFO  10-21 09:22:55,340 1 FileManager - Begin to get files from C:\Demo.  
+INFO  10-21 09:23:02,397 1 GridService - Begin to get selected files from grid.  
+INFO  10-21 09:23:02,399 1 GridService - Begin to get selected files from grid.  
+INFO  10-21 09:23:27,792 1 FileOperation - Begin to submit file change, the specified value is 33333.  
+INFO  10-21 09:23:39,218 1 FileChangePreviewForm - Submit confirmed, begin to change file.  
+INFO  10-21 09:23:39,221 1 FileManager - Begin to get folders from C:\Demo.  
+INFO  10-21 09:23:39,222 1 FileManager - Begin to get files from C:\Demo.  
+INFO  10-21 09:23:54,999 1 DocumentManagementForm - Open folder: C:\Demo.  
+INFO  10-21 09:24:32,091 1 GridService - Begin to get selected files from grid.  
+INFO  10-21 09:24:32,092 1 GridService - Begin to get selected files from grid.  
+Level DateTime Thread Class - Message 
+INFO  10-21 09:28:27,604 1 DocumentManagementForm - Begin to load form.  
+INFO  10-21 09:28:27,761 1 DocumentManagementForm - Begin to load tree.  
+INFO  10-21 09:28:27,765 1 DocumentManagementForm - Begin to load tree under This PC.  
+INFO  10-21 09:28:29,243 1 DocumentManagementForm - Begin to load tree.  
+INFO  10-21 09:28:29,245 1 FileManager - Begin to get folders from C:\.  
+INFO  10-21 09:28:29,275 1 DocumentManagementForm - Begin to load tree under This PC\C:\.  
+INFO  10-21 09:28:29,277 1 FileManager - Begin to get folders from C:\.  
+INFO  10-21 09:28:29,283 1 FileManager - Begin to get files from C:\.  
+INFO  10-21 09:28:31,022 1 DocumentManagementForm - Begin to load tree.  
+INFO  10-21 09:28:31,022 1 FileManager - Begin to get folders from C:\\Demo.  
+INFO  10-21 09:28:31,025 1 DocumentManagementForm - Begin to load tree under This PC\C:\\Demo.  
+INFO  10-21 09:28:31,027 1 FileManager - Begin to get folders from C:\\Demo.  
+INFO  10-21 09:28:31,028 1 FileManager - Begin to get files from C:\\Demo.  
+INFO  10-21 09:28:34,233 1 GridService - Begin to filter items from grid, Key: 123.  
+INFO  10-21 09:28:34,234 1 FileManager - Begin to get folders from C:\Demo.  
+ERROR 10-21 09:28:34,271 1 GridService - An error occurred when filter file: F1. Reason: System.ArgumentOutOfRangeException: Length cannot be less than zero.
+Parameter name: length
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at DocumentManagementSystem.GridService.MatchKey(String name, String key) in C:\Code\DocumentManagementSystem\DocumentManagementSystem\GridView\Impl\GridService.cs:line 142.  
+ERROR 10-21 09:28:34,290 1 GridService - An error occurred when filter file: F2. Reason: System.ArgumentOutOfRangeException: Length cannot be less than zero.
+Parameter name: length
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at DocumentManagementSystem.GridService.MatchKey(String name, String key) in C:\Code\DocumentManagementSystem\DocumentManagementSystem\GridView\Impl\GridService.cs:line 142.  
+INFO  10-21 09:28:34,291 1 FileManager - Begin to get files from C:\Demo.  
+INFO  10-21 09:28:45,748 1 DocumentManagementForm - Begin to load tree.  
+INFO  10-21 09:28:45,748 1 FileManager - Begin to get folders from C:\\Code.  
+INFO  10-21 09:28:45,776 1 DocumentManagementForm - Begin to load tree under This PC\C:\\Code.  
+INFO  10-21 09:28:45,778 1 FileManager - Begin to get folders from C:\\Code.  
+INFO  10-21 09:28:45,780 1 FileManager - Begin to get files from C:\\Code.  
+INFO  10-21 09:28:48,289 1 DocumentManagementForm - Begin to load tree.  
+INFO  10-21 09:28:48,290 1 FileManager - Begin to get folders from C:\\Demo.  
+INFO  10-21 09:28:48,293 1 DocumentManagementForm - Begin to load tree under This PC\C:\\Demo.  
+INFO  10-21 09:28:48,294 1 FileManager - Begin to get folders from C:\\Demo.  
+INFO  10-21 09:28:48,295 1 FileManager - Begin to get files from C:\\Demo.  
+INFO  10-21 09:30:11,631 1 DocumentManagementForm - Begin to load tree.  
+INFO  10-21 09:30:11,633 1 FileManager - Begin to get folders from C:\\Code.  
+INFO  10-21 09:30:11,649 1 DocumentManagementForm - Begin to load tree under This PC\C:\\Code.  
+INFO  10-21 09:30:11,651 1 FileManager - Begin to get folders from C:\\Code.  
+INFO  10-21 09:30:11,653 1 FileManager - Begin to get files from C:\\Code.  
+INFO  10-21 09:30:13,756 1 DocumentManagementForm - Begin to load tree.  
+INFO  10-21 09:30:13,756 1 FileManager - Begin to get folders from C:\\Code\Algorithm.  
+INFO  10-21 09:30:13,762 1 DocumentManagementForm - Begin to load tree under This PC\C:\\Code\Algorithm.  
+INFO  10-21 09:30:13,764 1 FileManager - Begin to get folders from C:\\Code\Algorithm.  
+INFO  10-21 09:30:13,764 1 FileManager - Begin to get files from C:\\Code\Algorithm.  
+INFO  10-21 09:30:15,256 1 DocumentManagementForm - Begin to load tree.  
+INFO  10-21 09:30:15,257 1 FileManager - Begin to get folders from C:\\Code\Algorithm\Algorithm.  
+INFO  10-21 09:30:15,262 1 DocumentManagementForm - Begin to load tree under This PC\C:\\Code\Algorithm\Algorithm.  
+INFO  10-21 09:30:15,263 1 FileManager - Begin to get folders from C:\\Code\Algorithm\Algorithm.  
+INFO  10-21 09:30:15,264 1 FileManager - Begin to get files from C:\\Code\Algorithm\Algorithm.  
+INFO  10-21 09:30:16,711 1 DocumentManagementForm - Begin to load tree.  
+INFO  10-21 09:30:16,712 1 FileManager - Begin to get folders from C:\\Code\API.  
+INFO  10-21 09:30:16,717 1 DocumentManagementForm - Begin to load tree under This PC\C:\\Code\API.  
+INFO  10-21 09:30:16,719 1 FileManager - Begin to get folders from C:\\Code\API.  
+INFO  10-21 09:30:16,719 1 FileManager - Begin to get files from C:\\Code\API.  
+INFO  10-21 09:30:17,556 1 DocumentManagementForm - Begin to load tree.  
+INFO  10-21 09:30:17,557 1 FileManager - Begin to get folders from C:\\Code\ArrayList.  
+INFO  10-21 09:30:17,562 1 DocumentManagementForm - Begin to load tree under This PC\C:\\Code\ArrayList.  
+INFO  10-21 09:30:17,563 1 FileManager - Begin to get folders from C:\\Code\ArrayList.  
+INFO  10-21 09:30:17,564 1 FileManager - Begin to get files from C:\\Code\ArrayList.  
+INFO  10-21 09:30:18,237 1 DocumentManagementForm - Begin to load tree.  
+INFO  10-21 09:30:18,238 1 FileManager - Begin to get folders from C:\\Code\cloud-governance-master.  
+INFO  10-21 09:30:18,243 1 DocumentManagementForm - Begin to load tree under This PC\C:\\Code\cloud-governance-master.  
+INFO  10-21 09:30:18,244 1 FileManager - Begin to get folders from C:\\Code\cloud-governance-master.  
+INFO  10-21 09:30:18,245 1 FileManager - Begin to get files from C:\\Code\cloud-governance-master.  
+INFO  10-21 09:30:21,387 1 DocumentManagementForm - Begin to load tree.  
+INFO  10-21 09:30:21,389 1 FileManager - Begin to get folders from C:\\Code.  
+INFO  10-21 09:30:21,404 1 DocumentManagementForm - Begin to load tree under This PC\C:\\Code.  
+INFO  10-21 09:30:21,406 1 FileManager - Begin to get folders from C:\\Code.  
+INFO  10-21 09:30:21,408 1 FileManager - Begin to get files from C:\\Code.  
+INFO  10-21 09:30:24,412 1 DocumentManagementForm - Begin to load tree.  
+INFO  10-21 09:30:24,413 1 FileManager - Begin to get folders from C:\\Demo.  
+INFO  10-21 09:30:24,416 1 DocumentManagementForm - Begin to load tree under This PC\C:\\Demo.  
+INFO  10-21 09:30:24,417 1 FileManager - Begin to get folders from C:\\Demo.  
+INFO  10-21 09:30:24,418 1 FileManager - Begin to get files from C:\\Demo.  
+INFO  10-21 09:30:42,472 1 DocumentManagementForm - Begin to load tree.  
+INFO  10-21 09:30:42,473 1 FileManager - Begin to get folders from C:\\$Recycle.Bin.  
+INFO  10-21 09:30:42,478 1 DocumentManagementForm - Begin to load tree under This PC\C:\\$Recycle.Bin.  
+INFO  10-21 09:30:42,480 1 FileManager - Begin to get folders from C:\\$Recycle.Bin.  
+INFO  10-21 09:30:42,480 1 FileManager - Begin to get files from C:\\$Recycle.Bin.  
+INFO  10-21 09:30:46,668 1 DocumentManagementForm - Begin to load tree.  
+INFO  10-21 09:30:46,669 1 FileManager - Begin to get folders from C:\\$WinREAgent.  
+INFO  10-21 09:30:46,673 1 DocumentManagementForm - Begin to load tree under This PC\C:\\$WinREAgent.  
+INFO  10-21 09:30:46,674 1 FileManager - Begin to get folders from C:\\$WinREAgent.  
+INFO  10-21 09:30:46,675 1 FileManager - Begin to get files from C:\\$WinREAgent.  
+INFO  10-21 09:30:51,918 1 DocumentManagementForm - Begin to load tree.  
+INFO  10-21 09:30:51,919 1 FileManager - Begin to get folders from C:\\Demo.  
+INFO  10-21 09:30:51,922 1 DocumentManagementForm - Begin to load tree under This PC\C:\\Demo.  
+INFO  10-21 09:30:51,925 1 FileManager - Begin to get folders from C:\\Demo.  
+INFO  10-21 09:30:51,925 1 FileManager - Begin to get files from C:\\Demo.  
+INFO  10-21 09:31:00,972 1 DocumentManagementForm - Begin to load tree.  
+INFO  10-21 09:31:00,973 1 FileManager - Begin to get folders from C:\\$WinREAgent\Scratch.  
+INFO  10-21 09:31:00,974 1 DocumentManagementForm - Begin to load tree under This PC\C:\\$WinREAgent\Scratch.  
+INFO  10-21 09:31:00,975 1 FileManager - Begin to get folders from C:\\$WinREAgent\Scratch.  
+INFO  10-21 09:31:00,976 1 FileManager - Begin to get files from C:\\$WinREAgent\Scratch.  
+INFO  10-21 09:31:03,298 1 DocumentManagementForm - Begin to load tree.  
+INFO  10-21 09:31:03,301 1 FileManager - Begin to get folders from C:\\$WinREAgent.  
+INFO  10-21 09:31:03,302 1 DocumentManagementForm - Begin to load tree under This PC\C:\\$WinREAgent.  
+INFO  10-21 09:31:03,304 1 FileManager - Begin to get folders from C:\\$WinREAgent.  
+INFO  10-21 09:31:03,304 1 FileManager - Begin to get files from C:\\$WinREAgent.  
+INFO  10-21 09:31:10,653 1 DocumentManagementForm - Begin to load tree.  
+INFO  10-21 09:31:10,654 1 FileManager - Begin to get folders from C:\\Demo.  
+INFO  10-21 09:31:10,657 1 DocumentManagementForm - Begin to load tree under This PC\C:\\Demo.  
+INFO  10-21 09:31:10,658 1 FileManager - Begin to get folders from C:\\Demo.  
+INFO  10-21 09:31:10,658 1 FileManager - Begin to get files from C:\\Demo.  
+Level DateTime Thread Class - Message 
+INFO  10-21 09:34:11,683 1 DocumentManagementForm - Begin to load form.  
+INFO  10-21 09:34:11,811 1 DocumentManagementForm - Begin to load tree.  
+INFO  10-21 09:34:11,817 1 DocumentManagementForm - Begin to load tree under This PC.  
+INFO  10-21 09:34:26,672 1 DocumentManagementForm - Begin to load tree.  
+INFO  10-21 09:34:26,673 1 FileManager - Begin to get folders from C:\.  
+INFO  10-21 09:34:26,693 1 DocumentManagementForm - Begin to load tree under This PC\C:\.  
+INFO  10-21 09:34:26,694 1 FileManager - Begin to get folders from C:\.  
+INFO  10-21 09:34:26,697 1 FileManager - Begin to get files from C:\.  
+INFO  10-21 09:34:34,779 1 DocumentManagementForm - Begin to load tree.  
+INFO  10-21 09:34:34,780 1 FileManager - Begin to get folders from C:\\Demo.  
+INFO  10-21 09:34:34,782 1 DocumentManagementForm - Begin to load tree under This PC\C:\\Demo.  
+INFO  10-21 09:34:34,785 1 FileManager - Begin to get folders from C:\\Demo.  
+INFO  10-21 09:34:34,786 1 FileManager - Begin to get files from C:\\Demo.  
+INFO  10-21 09:35:05,878 1 GridService - Begin to sort items from grid.  
+INFO  10-21 09:35:05,879 1 GridService - Begin to filter items from grid, Key: .  
+INFO  10-21 09:35:05,880 1 FileManager - Begin to get folders from C:\Demo.  
+INFO  10-21 09:35:05,881 1 FileManager - Begin to get files from C:\Demo.  
+INFO  10-21 09:35:09,518 1 GridService - Begin to sort items from grid.  
+INFO  10-21 09:35:09,519 1 GridService - Begin to filter items from grid, Key: .  
+INFO  10-21 09:35:09,520 1 FileManager - Begin to get folders from C:\Demo.  
+INFO  10-21 09:35:09,521 1 FileManager - Begin to get files from C:\Demo.  
+INFO  10-21 09:35:17,062 1 GridService - Begin to sort items from grid.  
+INFO  10-21 09:35:17,063 1 GridService - Begin to filter items from grid, Key: .  
+INFO  10-21 09:35:17,065 1 FileManager - Begin to get folders from C:\Demo.  
+INFO  10-21 09:35:17,066 1 FileManager - Begin to get files from C:\Demo.  
+INFO  10-21 09:35:18,175 1 GridService - Begin to sort items from grid.  
+INFO  10-21 09:35:18,176 1 GridService - Begin to filter items from grid, Key: .  
+INFO  10-21 09:35:18,176 1 FileManager - Begin to get folders from C:\Demo.  
+INFO  10-21 09:35:18,177 1 FileManager - Begin to get files from C:\Demo.  
+INFO  10-21 09:35:35,636 1 GridService - Begin to filter items from grid, Key: prefix.  
+INFO  10-21 09:35:35,637 1 FileManager - Begin to get folders from C:\Demo.  
+ERROR 10-21 09:35:35,656 1 GridService - An error occurred when filter file: F1. Reason: System.ArgumentOutOfRangeException: Length cannot be less than zero.
+Parameter name: length
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at DocumentManagementSystem.GridService.MatchKey(String name, String key) in C:\Code\DocumentManagementSystem\DocumentManagementSystem\GridView\Impl\GridService.cs:line 142.  
+ERROR 10-21 09:35:35,670 1 GridService - An error occurred when filter file: F2. Reason: System.ArgumentOutOfRangeException: Length cannot be less than zero.
+Parameter name: length
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at DocumentManagementSystem.GridService.MatchKey(String name, String key) in C:\Code\DocumentManagementSystem\DocumentManagementSystem\GridView\Impl\GridService.cs:line 142.  
+INFO  10-21 09:35:35,671 1 FileManager - Begin to get files from C:\Demo.  
+INFO  10-21 09:35:41,342 1 DocumentManagementForm - Begin to load tree.  
+INFO  10-21 09:35:41,344 1 FileManager - Begin to get folders from C:\\Code.  
+INFO  10-21 09:35:41,375 1 DocumentManagementForm - Begin to load tree under This PC\C:\\Code.  
+INFO  10-21 09:35:41,379 1 FileManager - Begin to get folders from C:\\Code.  
+INFO  10-21 09:35:41,380 1 FileManager - Begin to get files from C:\\Code.  
+INFO  10-21 09:35:43,903 1 DocumentManagementForm - Begin to load tree.  
+INFO  10-21 09:35:43,904 1 FileManager - Begin to get folders from C:\\Demo.  
+INFO  10-21 09:35:43,907 1 DocumentManagementForm - Begin to load tree under This PC\C:\\Demo.  
+INFO  10-21 09:35:43,908 1 FileManager - Begin to get folders from C:\\Demo.  
+INFO  10-21 09:35:43,909 1 FileManager - Begin to get files from C:\\Demo.  
+INFO  10-21 09:35:49,989 1 GridService - Begin to get selected files from grid.  
+INFO  10-21 09:35:49,990 1 GridService - Begin to get selected files from grid.  
+INFO  10-21 09:35:56,032 1 GridService - Begin to get selected files from grid.  
+INFO  10-21 09:36:11,903 1 GridService - Begin to get selected files from grid.  
+INFO  10-21 09:36:11,904 1 GridService - Begin to get selected files from grid.  
+INFO  10-21 09:36:40,647 1 FileOperation - Begin to submit file change, the specified value is csv.  
+INFO  10-21 09:37:01,700 1 GridService - Begin to get selected files from grid.  
+INFO  10-21 09:37:01,700 1 GridService - Begin to get selected files from grid.  
+INFO  10-21 09:37:11,092 1 GridService - Begin to get selected files from grid.  
+INFO  10-21 09:37:11,093 1 GridService - Begin to get selected files from grid.  
+INFO  10-21 09:37:16,668 1 FileOperation - Begin to submit file change, the specified value is csv.  
+INFO  10-21 09:37:18,807 1 FileChangePreviewForm - Submit confirmed, begin to change file.  
+INFO  10-21 09:37:18,815 1 FileManager - Begin to get folders from C:\Demo.  
+INFO  10-21 09:37:18,816 1 FileManager - Begin to get files from C:\Demo.  
+INFO  10-21 09:37:27,707 1 DocumentManagementForm - Open folder: C:\Demo.  
+INFO  10-21 09:37:37,609 1 GridService - Begin to get selected files from grid.  
+INFO  10-21 09:37:37,610 1 GridService - Begin to get selected files from grid.  
+INFO  10-21 09:37:42,942 1 FileOperation - Begin to submit file change, the specified value is docx.  
+INFO  10-21 09:37:44,186 1 FileChangePreviewForm - Submit confirmed, begin to change file.  
+INFO  10-21 09:37:44,193 1 FileManager - Begin to get folders from C:\Demo.  
+INFO  10-21 09:37:44,193 1 FileManager - Begin to get files from C:\Demo.  
+INFO  10-21 09:37:48,309 1 GridService - Begin to get selected files from grid.  
+INFO  10-21 09:37:48,309 1 GridService - Begin to get selected files from grid.  
+INFO  10-21 09:37:57,594 1 GridService - Begin to get selected files from grid.  
+INFO  10-21 09:37:57,594 1 GridService - Begin to get selected files from grid.  
+INFO  10-21 09:38:08,442 1 FileOperation - Begin to submit file change, the specified value is .  
+INFO  10-21 09:38:14,414 1 FileChangePreviewForm - Submit confirmed, begin to change file.  
+INFO  10-21 09:38:14,417 1 FileManager - Begin to get folders from C:\Demo.  
+INFO  10-21 09:38:14,417 1 FileManager - Begin to get files from C:\Demo.  
+INFO  10-21 09:38:19,414 1 GridService - Begin to get selected files from grid.  
+INFO  10-21 09:38:19,415 1 GridService - Begin to get selected files from grid.  
+INFO  10-21 09:38:25,485 1 FileOperation - Begin to submit file change, the specified value is .  
+INFO  10-21 09:38:28,068 1 FileChangePreviewForm - Submit confirmed, begin to change file.  
+INFO  10-21 09:38:28,070 1 FileManager - Begin to get folders from C:\Demo.  
+INFO  10-21 09:38:28,071 1 FileManager - Begin to get files from C:\Demo.  
+INFO  10-21 09:38:30,783 1 GridService - Begin to get selected files from grid.  
+INFO  10-21 09:38:30,784 1 GridService - Begin to get selected files from grid.  
+INFO  10-21 09:38:33,631 1 FileOperation - Begin to submit file change, the specified value is .  
+INFO  10-21 09:38:34,987 1 FileChangePreviewForm - Submit confirmed, begin to change file.  
+INFO  10-21 09:38:34,989 1 FileManager - Begin to get folders from C:\Demo.  
+INFO  10-21 09:38:34,990 1 FileManager - Begin to get files from C:\Demo.  

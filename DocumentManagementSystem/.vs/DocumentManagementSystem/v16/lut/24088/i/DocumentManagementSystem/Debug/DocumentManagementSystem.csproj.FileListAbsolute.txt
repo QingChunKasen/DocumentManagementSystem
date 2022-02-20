@@ -1,0 +1,11 @@
+C:\Code\DocumentManagementSystem\.vs\DocumentManagementSystem\v16\lut\0\b\DocumentManagementSystem\bin\Debug\DocumentManagementSystem.exe.config
+C:\Code\DocumentManagementSystem\.vs\DocumentManagementSystem\v16\lut\0\b\DocumentManagementSystem\bin\Debug\DocumentManagementSystem.exe
+C:\Code\DocumentManagementSystem\.vs\DocumentManagementSystem\v16\lut\0\i\DocumentManagementSystem\Debug\DocumentManagementSystem.csprojAssemblyReference.cache
+C:\Code\DocumentManagementSystem\.vs\DocumentManagementSystem\v16\lut\0\i\DocumentManagementSystem\Debug\DocumentManagementSystem.DocumentManagementForm.resources
+C:\Code\DocumentManagementSystem\.vs\DocumentManagementSystem\v16\lut\0\i\DocumentManagementSystem\Debug\DocumentManagementSystem.FileChangePreviewForm.resources
+C:\Code\DocumentManagementSystem\.vs\DocumentManagementSystem\v16\lut\0\i\DocumentManagementSystem\Debug\DocumentManagementSystem.FileOperation.resources
+C:\Code\DocumentManagementSystem\.vs\DocumentManagementSystem\v16\lut\0\i\DocumentManagementSystem\Debug\DocumentManagementSystem.Properties.Resources.resources
+C:\Code\DocumentManagementSystem\.vs\DocumentManagementSystem\v16\lut\0\i\DocumentManagementSystem\Debug\DocumentManagementSystem.csproj.GenerateResource.cache
+C:\Code\DocumentManagementSystem\.vs\DocumentManagementSystem\v16\lut\0\i\DocumentManagementSystem\Debug\DocumentManagementSystem.csproj.CoreCompileInputs.cache
+C:\Code\DocumentManagementSystem\.vs\DocumentManagementSystem\v16\lut\0\i\DocumentManagementSystem\Debug\DocumentManagementSystem.csproj.CopyComplete
+C:\Code\DocumentManagementSystem\.vs\DocumentManagementSystem\v16\lut\0\i\DocumentManagementSystem\Debug\DocumentManagementSystem.exe

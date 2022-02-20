@@ -1,0 +1,8 @@
+C:\Code\DocumentManagementSystem\.vs\DocumentManagementSystem\v16\lut\0\b\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Code\DocumentManagementSystem\.vs\DocumentManagementSystem\v16\lut\0\b\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Code\DocumentManagementSystem\.vs\DocumentManagementSystem\v16\lut\0\b\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Code\DocumentManagementSystem\.vs\DocumentManagementSystem\v16\lut\0\b\UnitTest\bin\Debug\UnitTest.dll
+C:\Code\DocumentManagementSystem\.vs\DocumentManagementSystem\v16\lut\0\i\UnitTest\Debug\UnitTest.csprojAssemblyReference.cache
+C:\Code\DocumentManagementSystem\.vs\DocumentManagementSystem\v16\lut\0\i\UnitTest\Debug\UnitTest.csproj.CoreCompileInputs.cache
+C:\Code\DocumentManagementSystem\.vs\DocumentManagementSystem\v16\lut\0\i\UnitTest\Debug\UnitTest.csproj.CopyComplete
+C:\Code\DocumentManagementSystem\.vs\DocumentManagementSystem\v16\lut\0\i\UnitTest\Debug\UnitTest.dll

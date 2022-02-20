@@ -1,0 +1,5 @@
+C:\Code\DocumentManagementSystem\.vs\DocumentManagementSystem\v16\lut\0\b\Domain.Service.Interface\bin\Debug\DomainServiceInterface.dll
+C:\Code\DocumentManagementSystem\.vs\DocumentManagementSystem\v16\lut\0\i\Domain.Service.Interface\Debug\Domain.Service.Interface.csprojAssemblyReference.cache
+C:\Code\DocumentManagementSystem\.vs\DocumentManagementSystem\v16\lut\0\i\Domain.Service.Interface\Debug\Domain.Service.Interface.csproj.CoreCompileInputs.cache
+C:\Code\DocumentManagementSystem\.vs\DocumentManagementSystem\v16\lut\0\i\Domain.Service.Interface\Debug\Domain.Service.Interface.csproj.CopyComplete
+C:\Code\DocumentManagementSystem\.vs\DocumentManagementSystem\v16\lut\0\i\Domain.Service.Interface\Debug\DomainServiceInterface.dll

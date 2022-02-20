@@ -1,0 +1,13 @@
+C:\Code\DocumentManagementSystem\Utilities\bin\Debug\Utilities.dll
+C:\Code\DocumentManagementSystem\Utilities\bin\Debug\Utilities.pdb
+C:\Code\DocumentManagementSystem\Utilities\bin\Debug\Castle.Core.dll
+C:\Code\DocumentManagementSystem\Utilities\bin\Debug\Castle.Windsor.dll
+C:\Code\DocumentManagementSystem\Utilities\bin\Debug\Castle.Core.xml
+C:\Code\DocumentManagementSystem\Utilities\bin\Debug\Castle.Windsor.xml
+C:\Code\DocumentManagementSystem\Utilities\obj\Debug\Utilities.csprojAssemblyReference.cache
+C:\Code\DocumentManagementSystem\Utilities\obj\Debug\Utilities.csproj.CoreCompileInputs.cache
+C:\Code\DocumentManagementSystem\Utilities\obj\Debug\Utilities.csproj.CopyComplete
+C:\Code\DocumentManagementSystem\Utilities\obj\Debug\Utilities.dll
+C:\Code\DocumentManagementSystem\Utilities\obj\Debug\Utilities.pdb
+C:\Code\DocumentManagementSystem\Utilities\bin\Debug\log4net.dll
+C:\Code\DocumentManagementSystem\Utilities\bin\Debug\log4net.xml
