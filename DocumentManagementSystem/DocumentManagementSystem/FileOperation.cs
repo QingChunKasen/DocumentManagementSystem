@@ -21,7 +21,7 @@
         {
             try
             {
-                logger.Info($"Begin to submit file change, the specified value is {this.specifiedMessage.Text}.");
+                logger.Info($"Begin 111to1111 submit file change, the specified value is {this.specifiedMessage.Text}.");
                 if (this.Validation())
                 {
                     var changedFiles = new List<FileChangeModel>();
