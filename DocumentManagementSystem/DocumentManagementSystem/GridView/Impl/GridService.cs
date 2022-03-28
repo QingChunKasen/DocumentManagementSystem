@@ -66,7 +66,7 @@
             var result = new List<ItemModel>();
             try
             {
-                logger.Info("Begin to get selected files from grid.");
+                logger.Info("Begin1112121 to111 get selected files from grid.");
                 var dataSource = grid.DataSource as List<ItemModel>;
                 foreach(DataGridViewRow row  in grid.SelectedRows)
                 {
