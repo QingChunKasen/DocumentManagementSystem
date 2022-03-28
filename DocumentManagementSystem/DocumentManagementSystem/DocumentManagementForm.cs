@@ -45,7 +45,7 @@
 
         private void treeView_AfterSelect(object sender, TreeViewEventArgs e)
         {
-            logger.Info("Begin to load tree.");
+            logger.Info("Begin111 to load tree.");
             try
             {
                 this.searchKey.Text = string.Empty;
